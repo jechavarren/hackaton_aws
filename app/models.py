@@ -17,3 +17,6 @@ model_haiku_3 = ChatBedrockConverse(
         # aws_secret_access_key=_model_settings.secret_access_key,
         # thinking_params=thinking_params,
     )
+
+if __name__ == '__main__':
+    print(model_sonnet_37.invoke('Hola jefe'))
