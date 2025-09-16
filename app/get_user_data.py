@@ -4,7 +4,7 @@ import json
 from io import StringIO
 
 # Parámetros de S3
-bucket = "csv-file-store-a9022eb0"
+bucket = "csv-file-store-a4193460"
 keys = {
     "transactions": "datalake-csv/transaction_history/transaction_history.csv",
     "products": "datalake-csv/product/product_table.csv",
@@ -15,10 +15,19 @@ keys = {
     "product_usage": "datalake-csv/product_usage/product_usage.csv",
 }
 
+
+
 # Función auxiliar para leer CSV desde S3 en DataFrame
+# def read_csv_from_s3(bucket, key):
+#     s3 = boto3.client("s3")
+#     obj = s3.get_object(Bucket=bucket, Key=key)
+#     data = obj["Body"].read().decode("utf-8")
+#     return pd.read_csv(StringIO(data))
+
 def read_csv_from_s3(bucket, key):
-    s3 = boto3.client("s3")
-    obj = s3.get_object(Bucket=bucket, Key=key)
+    session = boto3.Session(profile_name="hackaton")
+    s3 = session.client("s3", use_ssl=False)
+    obj = s3.get_object(Bucket=bucket, Key=key,)
     data = obj["Body"].read().decode("utf-8")
     return pd.read_csv(StringIO(data))
 
