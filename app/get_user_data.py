@@ -101,7 +101,7 @@ def get_customer_full_info(customer_name):
 # -------------------------------
 # 🔹 Ejemplo de uso
 # -------------------------------
-cliente_json = get_customer_full_info("Noah Rhodes")
+# cliente_json = get_customer_full_info("Noah Rhodes")
 
 # Imprimir en formato JSON legible
-print(json.dumps(cliente_json, indent=2))
+# print(json.dumps(cliente_json, indent=2))

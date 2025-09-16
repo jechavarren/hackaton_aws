@@ -21,3 +21,15 @@ def get_customer_info(
     """Get the bank transaction data from that user"""
 
     return get_customer_full_info(customer_name=user)
+
+@tool
+def get_customer_current_products(
+    user: Annotated[str, "User complete name, Name+ Surname, with the first letter of name and surname being in capital letters"],
+) -> str:
+    """Get the currently used financial products by the customer"""
+
+    result=  get_customer_full_info(customer_name=user)
+
+    return {
+        "Product_Usage": result["Product_Usage"],
+    }
