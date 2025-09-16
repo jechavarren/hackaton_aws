@@ -1,0 +1,101 @@
+product_id,product_category,product_name,product_description,term_months,interest_rate,min_amount,max_amount
+1,credit_card,Preferred Cash Back Card,"Special introductory 15% APR for first 18 months, then 14.99% variable APR",0,14.99,624,10608
+2,credit_card,Platinum Student Card,Earn 3% cash back on groceries and 1% on all other purchases,0,24.99,1362,36548
+3,credit_card,Optimal Student Card,Earn 5% cash back on groceries and 1% on all other purchases,0,27.99,1173,15635
+4,credit_card,Value Secured Card,Premium travel benefits including airport lounge access and no foreign transaction fees,0,16.99,901,9010
+5,credit_card,Standard Student Card,Balance transfer offer: 1% intro APR for 20 months,0,16.99,1540,43278
+6,credit_card,Select Student Card,Balance transfer offer: 3% intro APR for 19 months,0,29.99,1562,28040
+7,credit_card,Classic Student Card,"Get 4X points on travel and dining, plus travel insurance benefits",0,12.99,1113,23471
+8,credit_card,Smart Platinum Card,Earn 3% cash back on everyday purchases with no annual fee,0,27.99,1914,40232
+9,credit_card,Prime Rewards Card,Build credit with responsible use and get free credit score updates,0,16.99,1169,31926
+10,credit_card,Prime Student Card,Build credit with responsible use and get free credit score updates,0,27.99,1755,31590
+11,credit_card,Premier Cash Back Card,Premium travel benefits including airport lounge access and no foreign transaction fees,0,29.99,1280,27521
+12,credit_card,Elite Cash Back Card,Earn 2% cash back on groceries and 1% on all other purchases,0,27.99,1913,36347
+13,credit_card,Gold Rewards Card,"Get 2X points on travel and dining, plus travel insurance benefits",0,27.99,1839,25725
+14,credit_card,Premier Cash Back Card,"Get 1X points on travel and dining, plus travel insurance benefits",0,21.99,984,33082
+15,credit_card,Flex Rewards Card,Balance transfer offer: 4% intro APR for 20 months,0,14.99,1506,16566
+16,credit_card,Advanced Travel Card,Premium travel benefits including airport lounge access and no foreign transaction fees,0,16.99,1026,29933
+17,credit_card,Prime Rewards Card,"Special introductory 12% APR for first 16 months, then 27.99% variable APR",0,27.99,1368,21173
+18,credit_card,Classic Business Card,Build credit with responsible use and get free credit score updates,0,16.99,1050,18731
+19,credit_card,Freedom Cash Back Card,Build credit with responsible use and get free credit score updates,0,12.99,625,22437
+20,credit_card,Exclusive Secured Card,"Get 1X points on travel and dining, plus travel insurance benefits",0,12.99,1806,26114
+21,checking_account,Ultimate Student Checking,Student checking with no fees for 5 years and free overdraft protection,0,0.09,98,5703624
+22,checking_account,Preferred Interest Checking,Mobile-first checking with advanced budgeting tools and real-time alerts,0,0.14,0,6214340
+23,checking_account,Premium Basic Checking,Mobile-first checking with advanced budgeting tools and real-time alerts,0,0.12,93,4776077
+24,checking_account,Deluxe Basic Checking,Senior checking with enhanced interest rates and free paper statements,0,0.16,94,1153218
+25,checking_account,Exclusive Business Checking,Mobile-first checking with advanced budgeting tools and real-time alerts,0,0.17,28,1386324
+26,checking_account,Classic Checking,Premium banking services with dedicated support and 4 ATM fee reimbursements monthly,0,0.19,10,3092406
+27,checking_account,Basic Student Checking,Earn 0.11% APY on balances up to $50k,0,0.16,83,3740044
+28,checking_account,Standard Basic Checking,Student checking with no fees for 5 years and free overdraft protection,0,0.16,35,1165479
+29,checking_account,Premium Student Checking,Earn 0.16% APY on balances up to $15k,0,0.11,23,8364526
+30,checking_account,Deluxe Interest Checking,Student checking with no fees for 5 years and free overdraft protection,0,0.12,67,1710615
+31,savings_account,Prime Savings,Certificate term for 28 months with 2.5% APY,0,2.71,203,8227688
+32,savings_account,Exclusive Money Market,Certificate term for 11 months with 1.62% APY,0,1.67,221,8064807
+33,savings_account,Premium Goal Savings,Emergency fund savings with quick access and competitive rates,0,3.25,929,2729141
+34,savings_account,Deluxe Money Market,Goal-based savings with custom timelines and automatic transfers,0,2.41,317,5786824
+35,savings_account,Advanced Kids Savings,Tax-advantaged retirement savings with investment options,0,2.63,585,4388982
+36,savings_account,Silver IRA,Emergency fund savings with quick access and competitive rates,0,1.49,813,1148668
+37,savings_account,Premier Goal Savings,No fees and automatic savings with round-up features from checking,0,2.26,464,4678901
+38,savings_account,Gold Goal Savings,Emergency fund savings with quick access and competitive rates,0,3.08,503,4151566
+39,savings_account,Value Savings,Goal-based savings with custom timelines and automatic transfers,0,2.78,121,1747019
+40,savings_account,Optimal High-Yield Savings,Certificate term for 12 months with 2.28% APY,0,3.05,795,8134419
+41,savings_account,Value Certificate of Deposit,Emergency fund savings with quick access and competitive rates,0,2.28,651,9955185
+42,savings_account,Preferred Savings,Tax-advantaged retirement savings with investment options,0,2.59,588,3653705
+43,savings_account,Advanced Kids Savings,Kids savings account with educational tools and parental controls,0,2.43,332,8108007
+44,savings_account,Advanced High-Yield Savings,No fees and automatic savings with round-up features from checking,0,2.94,664,4384399
+45,savings_account,Standard Kids Savings,"High yield savings with 3.92% APY, no minimum balance",0,2.67,769,3363282
+46,personal_loan,Basic Wedding Loan,Flexible terms from 12 to 60 months and no prepayment penalties,36,11.66,2447,27923
+47,personal_loan,Gold Wedding Loan,Consolidate high-interest debt with rates as low as 6.39% APR,48,6.94,4497,53964
+48,personal_loan,Elite Debt Consolidation Loan,Consolidate high-interest debt with rates as low as 6.1% APR,12,12.86,4902,88236
+49,personal_loan,Freedom Home Improvement Loan,Medical expense financing with deferred interest options,12,8.85,4244,76392
+50,personal_loan,Ultimate Personal Loan,"Special rates for excellent credit customers, as low as 5.49% APR",24,13.98,2879,46064
+51,personal_loan,Standard Vacation Loan,Fixed rate personal loans from 5.99% to 18.99% APR with no origination fees,48,14.29,1031,37276
+52,personal_loan,Prestige Wedding Loan,Get funds up to $57889 as soon as next business day after approval,48,7.54,4453,57889
+53,personal_loan,Signature Personal Loan,Get funds up to $33585 as soon as next business day after approval,24,13.14,2156,33585
+54,personal_loan,Advantage Debt Consolidation Loan,Flexible terms from 12 to 60 months and no prepayment penalties,24,13.09,4550,36956
+55,personal_loan,Smart Debt Consolidation Loan,Get funds up to $37253 as soon as next business day after approval,60,13.3,2445,37253
+56,personal_loan,Basic Vacation Loan,Medical expense financing with deferred interest options,60,9.82,4875,46998
+57,personal_loan,Prime Emergency Loan,"Quick funding for home improvement projects, typically within 3 business days",12,13.52,3279,65580
+58,personal_loan,Platinum Wedding Loan,"Special rates for excellent credit customers, as low as 5.49% APR",48,9.76,3608,39640
+59,personal_loan,Flex Vacation Loan,Fixed rate personal loans from 5.99% to 18.99% APR with no origination fees,24,13.99,4472,41531
+60,personal_loan,Flex Home Improvement Loan,"Special rates for excellent credit customers, as low as 5.49% APR",36,13.43,1400,26610
+61,auto_loan,Optimal Refinance Auto Loan,No payments for 67 days on new auto loans,60,6.55,8909,133635
+62,auto_loan,Prime Lease Buyout,Flexible financing options for used vehicles as old as 8 years,60,7.56,12970,207520
+63,auto_loan,Elite Lease Buyout,Electric vehicle special financing with rates 0.27% lower than standard,60,5.73,7014,133266
+64,auto_loan,Select Used Car Loan,Competitive rates from 2.99% APR for new vehicles with terms up to 72 months,48,6.25,5526,88416
+65,auto_loan,Value Auto Loan,No payments for 47 days on new auto loans,72,8.54,6448,99535
+66,auto_loan,Advanced Electric Vehicle Loan,Refinance your existing auto loan and save an average of $80 per month,36,8.49,12945,142395
+67,auto_loan,Exclusive Used Car Loan,Pre-approval available with no impact to your credit score,72,5.53,11321,95721
+68,auto_loan,Prestige Refinance Auto Loan,Competitive rates from 2.99% APR for new vehicles with terms up to 72 months,72,6.16,12729,127290
+69,auto_loan,Premium Refinance Auto Loan,Flexible financing options for used vehicles as old as 7 years,72,6.25,7182,91772
+70,auto_loan,Standard Lease Buyout,Pre-approval available with no impact to your credit score,60,7.07,6653,133060
+71,mortgage,Deluxe FHA Loan,6/1 adjustable rate mortgage with initial rate of 2.0% APR,360,4.89,108169,2163380
+72,mortgage,Signature VA Loan,FHA loans with down payments as low as 3.5%,180,6.08,180694,2891104
+73,mortgage,Classic Jumbo Mortgage,VA loans for qualifying military service members with $0 down payment,240,6.28,185674,2413762
+74,mortgage,Flex Fixed-Rate Mortgage,Investment property loans with competitive rates and flexible terms,180,6.5,126965,1295506
+75,mortgage,Value FHA Loan,First-time homebuyer program with down payment assistance up to $12k,240,6.8,174852,1327538
+76,mortgage,Elite Adjustable-Rate Mortgage,Jumbo mortgages up to $1 million for high-value properties,360,3.68,166416,2496240
+77,mortgage,Premier Fixed-Rate Mortgage,FHA loans with down payments as low as 3.5%,360,4.84,127719,2043504
+78,mortgage,Select FHA Loan,20-year fixed rate mortgage starting at 3.01% APR,360,4.42,166275,2660400
+79,mortgage,Platinum Jumbo Mortgage,VA loans for qualifying military service members with $0 down payment,360,4.25,150870,2413920
+80,mortgage,Ultimate Fixed-Rate Mortgage,VA loans for qualifying military service members with $0 down payment,360,6.17,167853,3021354
+81,investment,Premier ETF,Actively managed fund with focus on income stocks,0,0.0,1832,5728448
+82,investment,Preferred Retirement Fund,ESG fund focusing on environmentally and socially responsible companies,0,0.0,4572,4694503
+83,investment,Signature Mutual Fund,Dividend yield fund with current yield of 4.43%,0,0.0,1460,5819613
+84,investment,Elite ETF,Retirement-focused fund with automatic rebalancing and tax optimization,0,0.0,2833,7875496
+85,investment,Standard Retirement Fund,Low-cost index fund tracking the Russell 2000 with 0.05% expense ratio,0,0.0,1173,3633108
+86,investment,Basic Bond Fund,Low-cost index fund tracking the S&P 500 with 0.11% expense ratio,0,0.0,3360,8908785
+87,investment,Platinum Retirement Fund,Dividend yield fund with current yield of 4.24%,0,0.0,3525,8944257
+88,investment,Standard Target Date Fund,ESG fund focusing on environmentally and socially responsible companies,0,0.0,2995,3346551
+89,investment,Signature Index Fund,Actively managed fund with focus on small cap stocks,0,0.0,3559,8863382
+90,investment,Platinum Mutual Fund,Dividend yield fund with current yield of 3.67%,0,0.0,2947,1004141
+91,insurance,Smart Auto Insurance,Health insurance with $1039 deductible and telehealth benefits,12,0.0,147,7278132
+92,insurance,Signature Home Insurance,Disability insurance protecting 74% of income with own-occupation coverage,12,0.0,65,6272014
+93,insurance,Premium Home Insurance,Term life insurance with 24 year coverage and rates from $31/month,12,0.0,72,2950547
+94,insurance,Preferred Life Insurance,Term life insurance with 15 year coverage and rates from $41/month,12,0.0,183,8544263
+95,insurance,Prestige Home Insurance,Auto insurance with accident forgiveness and gap insurance,12,0.0,141,6138452
+96,insurance,Exclusive Life Insurance,Health insurance with $1803 deductible and telehealth benefits,12,0.0,73,6188748
+97,insurance,Classic Life Insurance,Term life insurance with 26 year coverage and rates from $21/month,12,0.0,158,7607712
+98,insurance,Exclusive Renters Insurance,Term life insurance with 24 year coverage and rates from $42/month,12,0.0,153,1205092
+99,insurance,Elite Home Insurance,Term life insurance with 26 year coverage and rates from $44/month,12,0.0,167,7158985
+100,insurance,Prime Home Insurance,Disability insurance protecting 74% of income with own-occupation coverage,12,0.0,75,7407436
