@@ -7,16 +7,14 @@ from langchain_community.tools import DuckDuckGoSearchRun
 from langchain_core.messages import HumanMessage
 from langgraph.graph import StateGraph, START, END
 from langgraph.prebuilt import create_react_agent
+from models import model_sonnet_37
+
 
 # Load environment variables
 load_dotenv()
 
-api_key = os.getenv("OPENAI_API_KEY")
-if not api_key:
-    raise ValueError("OPENAI_API_KEY not found in .env")
-
 # Shared LLM
-llm = ChatOpenAI(model="gpt-4", temperature=0, api_key=api_key)
+llm = model_sonnet_37
 
 # Shared tool
 search_tool = DuckDuckGoSearchRun()
